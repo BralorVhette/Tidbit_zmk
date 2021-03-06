@@ -15,7 +15,7 @@
 	status = "disabled";
 };
 
-&encoder_1_top_row {
+&encoder_4 {
 	status = "okay";
 };
 
