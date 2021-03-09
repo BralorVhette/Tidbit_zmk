@@ -30,8 +30,7 @@
 	};
 
 	keymap {
-		compatible = "zmk,keymap";
-	
+		compatible = "zmk,keymap";	
 		default_layer {
              &rgb_ug RGB_COLOR_HSB(215, 100, 50)
             label = "Default";
