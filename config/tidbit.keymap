@@ -49,7 +49,7 @@
 				&none            &kp UP           &none            &kp PG_DN
 				&kp LEFT         &kp DOWN         &kp RIGHT        &none
 				&kp LSHFT        &rgb_ug RGB_EFF  &rgb_ug RGB_HUI  &kp KP_ENTER
-				&tog 0           &rgb_ug RGB_BRI  &rgb_ug RGB_SAI  &to 2
+				&tog 1           &rgb_ug RGB_BRI  &rgb_ug RGB_SAI  &to 2
 			 >;
 
 			 sensor-bindings = <&inc_dec_kp BSPC DEL>;
